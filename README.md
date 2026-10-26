@@ -7,7 +7,7 @@ Automated, clean, and structured datasets extracted directly from niche public d
 * **Dataset Alpha:** 1,000+ Verified Rows | CSV Format | Updated Monthly
 * **Structure:** `RECORD_DATE`, `ITEM_OR_TEXT`, `SOURCE_AUTHOR`, `STATUS`
 
-## 🔍 Sample Data Preview (First 5 Rows)
+## 🔍 Sample Data Preview
 
 | RECORD_DATE | ITEM_OR_TEXT | SOURCE_AUTHOR | STATUS |
 | :--- | :--- | :--- | :--- |
