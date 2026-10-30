@@ -17,7 +17,7 @@ Automated, clean, and structured datasets extracted directly from niche public d
 
 ## 💳 Monthly Subscription & Access
 Fresh, updated snapshots are compiled on the 1st of every month.
-* **Monthly Stream Access:** $15.00 AUD / Month
+* **Monthly Stream Access:** $15.00 AUD / Month * **FIRST 5 BUYERS GET IT FOR $5**
 * **Secure Transfer:** [Click Here to Pay via PayPal](https://paypal.me/pitbullflightsim)
 
 *Once payment clears, message me on Discord - mr_pitbull to instantly receive the encrypted download package link and this month's ZIP archive password.*
