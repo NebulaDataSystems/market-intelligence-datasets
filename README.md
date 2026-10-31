@@ -11,9 +11,9 @@ Automated, clean, and structured datasets extracted directly from niche public d
 
 | RECORD_DATE | ITEM_OR_TEXT | SOURCE_AUTHOR | STATUS |
 | :--- | :--- | :--- | :--- |
-| 2026-SEPT-1 | The world is full of magical things... | W.B. Yeats | VERIFIED |
-| 2026-SEPT-1 | To live is the rarest thing in the world. | Oscar Wilde | VERIFIED |
-| 2026-SEPT-1 | Experience is simply the name we give... | Oscar Wilde | VERIFIED |
+| 2026-NOV-1 | The world is full of magical things... | W.B. Yeats | VERIFIED |
+| 2026-NOV-1 | To live is the rarest thing in the world. | Oscar Wilde | VERIFIED |
+| 2026-NOV-1 | Experience is simply the name we give... | Oscar Wilde | VERIFIED |
 
 ## 💳 Monthly Subscription & Access
 Fresh, updated snapshots are compiled on the 1st of every month.
